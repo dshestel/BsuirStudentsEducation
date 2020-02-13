@@ -1,3 +1,1 @@
-# BsuirStudentsEducation
-
-#Dmitry trest
+# BsuirStudentsEducation foggy
