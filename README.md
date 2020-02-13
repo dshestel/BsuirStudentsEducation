@@ -1,1 +1,1 @@
-# BsuirStudentsEducation
+# BsuirStudentsEducation foggy
